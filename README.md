@@ -37,6 +37,7 @@ My Leetcode tracker
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/lilyhyojeonglee/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/lilyhyojeonglee/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/lilyhyojeonglee/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/lilyhyojeonglee/DSA/tree/master/0141-linked-list-cycle) |
 ## Recursion
@@ -51,6 +52,7 @@ My Leetcode tracker
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/lilyhyojeonglee/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/lilyhyojeonglee/DSA/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
