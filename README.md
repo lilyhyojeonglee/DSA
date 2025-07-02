@@ -7,6 +7,7 @@ My Leetcode tracker
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/lilyhyojeonglee/DSA/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/lilyhyojeonglee/DSA/tree/master/0070-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,8 +64,13 @@ My Leetcode tracker
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/lilyhyojeonglee/DSA/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/lilyhyojeonglee/DSA/tree/master/0070-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/lilyhyojeonglee/DSA/tree/master/0055-jump-game) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/lilyhyojeonglee/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
