@@ -53,9 +53,18 @@ My Leetcode tracker
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/lilyhyojeonglee/DSA/tree/master/0027-remove-element) |
+| [0055-jump-game](https://github.com/lilyhyojeonglee/DSA/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/lilyhyojeonglee/DSA/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/lilyhyojeonglee/DSA/tree/master/0088-merge-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/lilyhyojeonglee/DSA/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/lilyhyojeonglee/DSA/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
