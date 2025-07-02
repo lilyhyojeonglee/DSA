@@ -16,6 +16,7 @@ My Leetcode tracker
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/lilyhyojeonglee/DSA/tree/master/0014-longest-common-prefix) |
+| [0071-simplify-path](https://github.com/lilyhyojeonglee/DSA/tree/master/0071-simplify-path) |
 | [0424-longest-repeating-character-replacement](https://github.com/lilyhyojeonglee/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
@@ -42,4 +43,8 @@ My Leetcode tracker
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/lilyhyojeonglee/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/lilyhyojeonglee/DSA/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/lilyhyojeonglee/DSA/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
