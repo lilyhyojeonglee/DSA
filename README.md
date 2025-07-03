@@ -11,6 +11,7 @@ My Leetcode tracker
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/lilyhyojeonglee/DSA/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/lilyhyojeonglee/DSA/tree/master/0141-linked-list-cycle) |
 | [0424-longest-repeating-character-replacement](https://github.com/lilyhyojeonglee/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## String
@@ -18,6 +19,7 @@ My Leetcode tracker
 | ------- |
 | [0014-longest-common-prefix](https://github.com/lilyhyojeonglee/DSA/tree/master/0014-longest-common-prefix) |
 | [0071-simplify-path](https://github.com/lilyhyojeonglee/DSA/tree/master/0071-simplify-path) |
+| [0139-word-break](https://github.com/lilyhyojeonglee/DSA/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/lilyhyojeonglee/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
@@ -27,6 +29,7 @@ My Leetcode tracker
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/lilyhyojeonglee/DSA/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/lilyhyojeonglee/DSA/tree/master/0139-word-break) |
 ## Linked List
 |  |
 | ------- |
@@ -56,6 +59,7 @@ My Leetcode tracker
 | [0027-remove-element](https://github.com/lilyhyojeonglee/DSA/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/lilyhyojeonglee/DSA/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/lilyhyojeonglee/DSA/tree/master/0088-merge-sorted-array) |
+| [0139-word-break](https://github.com/lilyhyojeonglee/DSA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/lilyhyojeonglee/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/lilyhyojeonglee/DSA/tree/master/0213-house-robber-ii) |
 ## Sorting
@@ -67,6 +71,7 @@ My Leetcode tracker
 | ------- |
 | [0055-jump-game](https://github.com/lilyhyojeonglee/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/lilyhyojeonglee/DSA/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/lilyhyojeonglee/DSA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/lilyhyojeonglee/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/lilyhyojeonglee/DSA/tree/master/0213-house-robber-ii) |
 ## Greedy
@@ -77,4 +82,5 @@ My Leetcode tracker
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/lilyhyojeonglee/DSA/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/lilyhyojeonglee/DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
