@@ -56,6 +56,7 @@ My Leetcode tracker
 | [0027-remove-element](https://github.com/lilyhyojeonglee/DSA/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/lilyhyojeonglee/DSA/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/lilyhyojeonglee/DSA/tree/master/0088-merge-sorted-array) |
+| [0198-house-robber](https://github.com/lilyhyojeonglee/DSA/tree/master/0198-house-robber) |
 ## Sorting
 |  |
 | ------- |
@@ -65,6 +66,7 @@ My Leetcode tracker
 | ------- |
 | [0055-jump-game](https://github.com/lilyhyojeonglee/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/lilyhyojeonglee/DSA/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/lilyhyojeonglee/DSA/tree/master/0198-house-robber) |
 ## Greedy
 |  |
 | ------- |
