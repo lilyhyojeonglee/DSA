@@ -15,6 +15,7 @@ My Leetcode tracker
 | [0141-linked-list-cycle](https://github.com/lilyhyojeonglee/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/lilyhyojeonglee/DSA/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/lilyhyojeonglee/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0816-design-hashset](https://github.com/lilyhyojeonglee/DSA/tree/master/0816-design-hashset) |
 ## String
 |  |
 | ------- |
@@ -38,6 +39,7 @@ My Leetcode tracker
 | [0021-merge-two-sorted-lists](https://github.com/lilyhyojeonglee/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/lilyhyojeonglee/DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/lilyhyojeonglee/DSA/tree/master/0206-reverse-linked-list) |
+| [0816-design-hashset](https://github.com/lilyhyojeonglee/DSA/tree/master/0816-design-hashset) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,6 +66,7 @@ My Leetcode tracker
 | [0169-majority-element](https://github.com/lilyhyojeonglee/DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/lilyhyojeonglee/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/lilyhyojeonglee/DSA/tree/master/0213-house-robber-ii) |
+| [0816-design-hashset](https://github.com/lilyhyojeonglee/DSA/tree/master/0816-design-hashset) |
 ## Sorting
 |  |
 | ------- |
@@ -94,4 +97,12 @@ My Leetcode tracker
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/lilyhyojeonglee/DSA/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/lilyhyojeonglee/DSA/tree/master/0816-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/lilyhyojeonglee/DSA/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
