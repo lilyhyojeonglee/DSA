@@ -1,15 +1,15 @@
 class MyHashSet(object):
 
     def __init__(self):
-        self.data = []
+        self.data = [False] * 1000001
 
     def add(self, key):
         """
         :type key: int
         :rtype: None
         """
-        if key not in self.data:
-            self.data.append(key)
+        if self.data[key] == False:
+            self.data[key] = True
         
 
     def remove(self, key):
@@ -17,8 +17,8 @@ class MyHashSet(object):
         :type key: int
         :rtype: None
         """
-        if key in self.data:
-            self.data.remove(key)
+        if self.data[key] == True:
+            self.data[key] = False
         
 
     def contains(self, key):
@@ -26,10 +26,10 @@ class MyHashSet(object):
         :type key: int
         :rtype: bool
         """
-        if key in self.data:
-            return True
-        else:
+        if self.data[key] == False:
             return False
+        else:
+            return True
         
 
 
