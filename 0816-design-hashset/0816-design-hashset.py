@@ -1,15 +1,18 @@
 class MyHashSet(object):
 
     def __init__(self):
-        self.data = [False] * 1000001
-
+        self.size = 769
+        self.data = [[] for _ in range(769)]
+    
+    def hash(self, key):
+        return key % self.size
     def add(self, key):
-        """
-        :type key: int
-        :rtype: None
-        """
-        if self.data[key] == False:
-            self.data[key] = True
+        i = self.hash(key)
+        
+        if key in self.data[i]:
+            return
+        else:
+            self.data[i].append(key)
         
 
     def remove(self, key):
@@ -17,8 +20,9 @@ class MyHashSet(object):
         :type key: int
         :rtype: None
         """
-        if self.data[key] == True:
-            self.data[key] = False
+        i=self.hash(key)
+        if key in self.data[i]:
+            self.data[i].remove(key)
         
 
     def contains(self, key):
@@ -26,10 +30,11 @@ class MyHashSet(object):
         :type key: int
         :rtype: bool
         """
-        if self.data[key] == False:
-            return False
-        else:
+        i=self.hash(key)
+        if key in self.data[i]:
             return True
+        else:
+            return False
         
 
 
