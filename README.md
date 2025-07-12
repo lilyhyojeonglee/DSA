@@ -51,6 +51,7 @@ My Leetcode tracker
 | [0088-merge-sorted-array](https://github.com/lilyhyojeonglee/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/lilyhyojeonglee/DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/lilyhyojeonglee/DSA/tree/master/0143-reorder-list) |
+| [0287-find-the-duplicate-number](https://github.com/lilyhyojeonglee/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
 | ------- |
@@ -72,6 +73,7 @@ My Leetcode tracker
 | [0169-majority-element](https://github.com/lilyhyojeonglee/DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/lilyhyojeonglee/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/lilyhyojeonglee/DSA/tree/master/0213-house-robber-ii) |
+| [0287-find-the-duplicate-number](https://github.com/lilyhyojeonglee/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0816-design-hashset](https://github.com/lilyhyojeonglee/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/lilyhyojeonglee/DSA/tree/master/0817-design-hashmap) |
 ## Sorting
@@ -114,4 +116,12 @@ My Leetcode tracker
 | ------- |
 | [0816-design-hashset](https://github.com/lilyhyojeonglee/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/lilyhyojeonglee/DSA/tree/master/0817-design-hashmap) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/lilyhyojeonglee/DSA/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/lilyhyojeonglee/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
