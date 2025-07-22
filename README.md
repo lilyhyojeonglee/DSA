@@ -40,6 +40,7 @@ My Leetcode tracker
 | [0021-merge-two-sorted-lists](https://github.com/lilyhyojeonglee/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/lilyhyojeonglee/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/lilyhyojeonglee/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/lilyhyojeonglee/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/lilyhyojeonglee/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/lilyhyojeonglee/DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/lilyhyojeonglee/DSA/tree/master/0143-reorder-list) |
