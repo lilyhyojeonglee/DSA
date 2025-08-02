@@ -4,10 +4,12 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
-        nums.sort()
-        for i in range(1, len(nums)):
-            if nums[i-1]== nums[i]:
+        dup = set()
 
+        for i in nums:
+            if i in dup:
                 return True
-
+            else:
+                dup.add(i)
+        
         return False
