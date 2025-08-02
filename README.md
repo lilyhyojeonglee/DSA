@@ -14,6 +14,7 @@ My Leetcode tracker
 | [0139-word-break](https://github.com/lilyhyojeonglee/DSA/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/lilyhyojeonglee/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/lilyhyojeonglee/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/lilyhyojeonglee/DSA/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/lilyhyojeonglee/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0816-design-hashset](https://github.com/lilyhyojeonglee/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/lilyhyojeonglee/DSA/tree/master/0817-design-hashmap) |
@@ -78,6 +79,7 @@ My Leetcode tracker
 | [0169-majority-element](https://github.com/lilyhyojeonglee/DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/lilyhyojeonglee/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/lilyhyojeonglee/DSA/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/lilyhyojeonglee/DSA/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/lilyhyojeonglee/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0816-design-hashset](https://github.com/lilyhyojeonglee/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/lilyhyojeonglee/DSA/tree/master/0817-design-hashmap) |
@@ -87,6 +89,7 @@ My Leetcode tracker
 | ------- |
 | [0088-merge-sorted-array](https://github.com/lilyhyojeonglee/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/lilyhyojeonglee/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/lilyhyojeonglee/DSA/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
