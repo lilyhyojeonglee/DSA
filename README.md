@@ -81,6 +81,7 @@ My Leetcode tracker
 | [0287-find-the-duplicate-number](https://github.com/lilyhyojeonglee/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0816-design-hashset](https://github.com/lilyhyojeonglee/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/lilyhyojeonglee/DSA/tree/master/0817-design-hashmap) |
+| [2058-concatenation-of-array](https://github.com/lilyhyojeonglee/DSA/tree/master/2058-concatenation-of-array) |
 ## Sorting
 |  |
 | ------- |
@@ -138,4 +139,8 @@ My Leetcode tracker
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/lilyhyojeonglee/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/lilyhyojeonglee/DSA/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
