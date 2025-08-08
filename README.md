@@ -70,6 +70,7 @@ My Leetcode tracker
 | [0071-simplify-path](https://github.com/lilyhyojeonglee/DSA/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/lilyhyojeonglee/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/lilyhyojeonglee/DSA/tree/master/0143-reorder-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/lilyhyojeonglee/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Array
 |  |
 | ------- |
@@ -168,12 +169,15 @@ My Leetcode tracker
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/lilyhyojeonglee/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/lilyhyojeonglee/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/lilyhyojeonglee/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/lilyhyojeonglee/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/lilyhyojeonglee/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/lilyhyojeonglee/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
