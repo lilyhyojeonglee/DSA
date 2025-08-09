@@ -83,6 +83,7 @@ My Leetcode tracker
 | [0213-house-robber-ii](https://github.com/lilyhyojeonglee/DSA/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/lilyhyojeonglee/DSA/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/lilyhyojeonglee/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0494-target-sum](https://github.com/lilyhyojeonglee/DSA/tree/master/0494-target-sum) |
 | [0816-design-hashset](https://github.com/lilyhyojeonglee/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/lilyhyojeonglee/DSA/tree/master/0817-design-hashmap) |
 | [0948-sort-an-array](https://github.com/lilyhyojeonglee/DSA/tree/master/0948-sort-an-array) |
@@ -102,6 +103,7 @@ My Leetcode tracker
 | [0139-word-break](https://github.com/lilyhyojeonglee/DSA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/lilyhyojeonglee/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/lilyhyojeonglee/DSA/tree/master/0213-house-robber-ii) |
+| [0494-target-sum](https://github.com/lilyhyojeonglee/DSA/tree/master/0494-target-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -180,4 +182,8 @@ My Leetcode tracker
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/lilyhyojeonglee/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lilyhyojeonglee/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/lilyhyojeonglee/DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
